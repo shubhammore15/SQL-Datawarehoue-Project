@@ -1,33 +1,31 @@
-# SQL-Datawarehoue-Project
+# 📊 Data Warehouse and Analytics Project
 
-## 📖 Project Overview
+## 🚀 Overview
+I developed a modern data warehousing and analytics solution using **SQL Server**, implementing the **Medallion Architecture** (Bronze, Silver, and Gold layers) to transform raw data into **actionable insights**. This project demonstrates my expertise in **data engineering, ETL development, data modeling, and analytics reporting**.
 
-This project involves:
-- **Data Architecture**: Designing a Modern Data Warehouse using Medallion Architecture (Bronze, Silver, and Gold layers).
-- **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-- **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
-- **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+## 🏗 Key Components
 
-## 🚀 Project Requirements
+- **🔹 Data Architecture**: Designed a **Medallion Architecture** framework:
+  - **Bronze Layer**: Ingested raw data from **CSV files** (ERP & CRM sources) into SQL Server.
+  - **Silver Layer**: Performed **data cleansing, standardization, and transformation**.
+  - **Gold Layer**: Modeled **business-ready data** into a **star schema** for efficient analytics.
 
-### Building the Data Warehouse (Data Engineering)
+- **🔹 ETL Pipelines**: Developed **SQL-based ETL processes** to extract, transform, and load data.
+- **🔹 Data Modeling**: Designed **fact and dimension tables** optimized for analytical queries.
+- **🔹 Analytics & Reporting**: Generated **SQL-driven reports and dashboards** to analyze:
+  - 📌 **Customer Behavior**
+  - 📌 **Product Performance**
+  - 📌 **Sales Trends**
 
-**Objective**:  
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+## 🎯 Skills Demonstrated
 
-**Specifications**:
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+✅ **SQL Development**  
+✅ **Data Warehousing**  
+✅ **ETL Pipeline Development**  
+✅ **Data Modeling (Star Schema)**  
+✅ **Data Analytics & Reporting**  
 
-### BI: Analytics & Reporting (Data Analysis)
+This project highlights **industry best practices** and showcases my ability to build scalable **data engineering and analytics solutions** to drive **data-driven decision-making**.
 
-**Objective**:  
-Develop SQL-based analytics to deliver detailed insights into:
-- Customer Behavior
-- Product Performance
-- Sales Trends
+![data_architecture](https://github.com/user-attachments/assets/49a83006-f1c7-4066-b490-2f03c4befafb)
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
